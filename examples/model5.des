@@ -1,0 +1,4 @@
+pipe(3);
+	task("task", 1.0);
+	farm(3, "task", 3.0);
+	task("task", 1.0);

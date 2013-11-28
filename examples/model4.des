@@ -1,0 +1,6 @@
+pipe(5);
+	task("task", 1.0);
+	deal(3, "task", 3.0);
+	deal(2, "task", 2.0);
+	deal(4, "task", 4.0);
+task("task", 1.0);
